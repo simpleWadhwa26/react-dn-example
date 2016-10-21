@@ -1,0 +1,49 @@
+.menubar ul li{
+  display: inline;
+  font-weight: 500;
+    font-size: 13px;
+    color: #3e4551;
+    -webkit-transition: all .1s ease-in;
+    transition: all .1s ease-in;
+        padding: 18px 0 17px;
+}
+.newsArticleList{
+  list-style-type: none;
+margin: 0;
+padding: 0;
+display: block;
+list-style-type: disc;
+-webkit-margin-before: 1em;
+-webkit-margin-after: 1em;
+-webkit-margin-start: 0px;
+-webkit-margin-end: 0px;
+-webkit-padding-start: 40px;
+font-family: "Whitney SSm A","Whitney SSm B","Helvetica Neue",Helvetica,Arial,Sans-Serif;
+font-size: 14px;
+color: #121821;
+    -webkit-font-smoothing: antialiased;
+}
+.newsArticleList ul li{
+      padding-left: 40px;
+      display: table;
+    width: 100%;
+    box-sizing: border-box;
+    table-layout: fixed;
+    margin: 15px;
+}
+. newsContent headline{ display:  inline;
+  font-weight: bold;
+}
+.clickOn, .publisherName, .Designation{
+  display: inline;
+
+}
+. newsContent div{ display: block;
+}
+.upvotes .newsContent{
+  display: inline-block;
+}
+.upvotes{
+  width: 50px;
+  display: inline-block;
+}
